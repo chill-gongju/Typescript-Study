@@ -1,0 +1,2 @@
+// infer
+type Func = () => string;
